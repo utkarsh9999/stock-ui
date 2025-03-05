@@ -11,6 +11,11 @@ In the project directory, you can run:
 
 ![image](https://github.com/user-attachments/assets/40648bf5-eec8-473b-8955-0da315f215ac)
 
+
+https://github.com/user-attachments/assets/83f717d4-30d8-4f11-beff-0c465abe3e83
+
+
+
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
