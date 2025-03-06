@@ -25,6 +25,8 @@ export const StockBuy=()=>{
         socket.emit('stock_change',{
             stock_id:stock['stock_id'],
             stock_code:stock['stock_company_code'],
+            stock_company_name:stock['stock_company_name'],
+            type:'BUY',
             quantity:quantity
         });
         setTimeout(()=>{

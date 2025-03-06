@@ -3,7 +3,6 @@ import Navbar from "./components/Navbar";
 import {useState,useEffect} from "react";
 import axios from "axios";
 import {PriceCell} from "./components/PriceCell";
-import DraggableModal from "./components/DraggableModal";
 import {useNavigate} from "react-router-dom";
 export default function Stocks() {
     const [stocks,set_stock]=useState([]);
