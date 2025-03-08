@@ -9,8 +9,10 @@ In the project directory, you can run:
 ### `npm start`
 ![image](https://github.com/user-attachments/assets/0acbc70e-fae6-4a78-975f-efc0c40e2153)
 
-![image](https://github.com/user-attachments/assets/40648bf5-eec8-473b-8955-0da315f215ac)
+![image](https://github.com/user-attachments/assets/f16e23a9-fbb3-47f4-a054-1f181ed7dc5f)
 
+
+![image](https://github.com/user-attachments/assets/5f659135-62c9-4ea5-a775-20e8d7725622)
 
 https://github.com/user-attachments/assets/83f717d4-30d8-4f11-beff-0c465abe3e83
 
