@@ -22,8 +22,9 @@ export default function Navbar() {
                             <Link to='/'>Stock List <span className="sr-only">(current)</span></Link>
                         </li>
                         <li style={{fontWeight:"bold",color:"black"}}>
-                            <a href="#">Book a stock</a>
+                            <Link to='/transaction-stats'>Transaction Status</Link>
                         </li>
+
                     </ul>
 
                     <ul className="nav navbar-nav navbar-right">
